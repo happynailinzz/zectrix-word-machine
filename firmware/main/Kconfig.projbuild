@@ -1,0 +1,8 @@
+menu "Word machine prototype"
+config WM_INITIAL_LOCAL_TIME
+    string "Initial Asia/Shanghai clock, only used when RTC is invalid (YYYY-MM-DD HH:MM:SS)"
+    default ""
+    help
+        Leave blank to preserve the RTC. For an invalid RTC, specify the current
+        local time immediately before building/flashing. A valid RTC is never reset.
+endmenu

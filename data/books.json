@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "books": [
+    {
+      "deck_id": "pep-g7-upper",
+      "title": "人教7年级上册",
+      "status": "installed_draft",
+      "units": [
+        "全部单元",
+        "Starter 1",
+        "Starter 2",
+        "Starter 3",
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6",
+        "Unit 7"
+      ],
+      "source": "data/pep-g7-upper-2026-draft.json",
+      "unit_ids": [
+        "starter-1",
+        "starter-2",
+        "starter-3",
+        "unit-1",
+        "unit-2",
+        "unit-3",
+        "unit-4",
+        "unit-5",
+        "unit-6",
+        "unit-7"
+      ],
+      "study_ready": true
+    },
+    {
+      "deck_id": "pep-g7-lower",
+      "title": "人教7年级下册",
+      "status": "installed_draft",
+      "units": [
+        "全部单元",
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6",
+        "Unit 7",
+        "Unit 8"
+      ],
+      "source": "data/pep-g7-lower-2026-draft.json",
+      "unit_ids": [
+        "unit-1",
+        "unit-2",
+        "unit-3",
+        "unit-4",
+        "unit-5",
+        "unit-6",
+        "unit-7",
+        "unit-8"
+      ],
+      "study_ready": true
+    },
+    {
+      "deck_id": "pep-g8-upper",
+      "title": "人教8年级上册",
+      "status": "installed_draft",
+      "units": [
+        "全部单元",
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6",
+        "Unit 7",
+        "Unit 8"
+      ],
+      "source": "data/pep-g8-upper-2026-draft.json",
+      "unit_ids": [
+        "unit-1",
+        "unit-2",
+        "unit-3",
+        "unit-4",
+        "unit-5",
+        "unit-6",
+        "unit-7",
+        "unit-8"
+      ],
+      "study_ready": true
+    },
+    {
+      "deck_id": "pep-g8-lower",
+      "title": "人教8年级下册",
+      "status": "installed_draft",
+      "units": [
+        "全部单元",
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6",
+        "Unit 7",
+        "Unit 8"
+      ],
+      "source": "data/pep-g8-lower-2026-draft.json",
+      "unit_ids": [
+        "unit-1",
+        "unit-2",
+        "unit-3",
+        "unit-4",
+        "unit-5",
+        "unit-6",
+        "unit-7",
+        "unit-8"
+      ],
+      "study_ready": true
+    },
+    {
+      "deck_id": "pep-g9-upper",
+      "title": "人教9年级上册",
+      "status": "installed_draft",
+      "units": [
+        "全部单元",
+        "Unit 1",
+        "Unit 2",
+        "Unit 3",
+        "Unit 4",
+        "Unit 5",
+        "Unit 6",
+        "Unit 7",
+        "Unit 8"
+      ],
+      "source": "data/pep-g9-upper-2026-draft.json",
+      "unit_ids": [
+        "unit-1",
+        "unit-2",
+        "unit-3",
+        "unit-4",
+        "unit-5",
+        "unit-6",
+        "unit-7",
+        "unit-8"
+      ],
+      "study_ready": true
+    },
+    {
+      "deck_id": "pep-g9-lower",
+      "title": "人教9年级下册",
+      "status": "pending",
+      "units": [],
+      "source": null
+    },
+    {
+      "deck_id": "cambridge-a2-key",
+      "title": "KET / A2 Key",
+      "status": "installed_chinese_ipa_supplied",
+      "units": [
+        "全部单元",
+        "A-B",
+        "C-D",
+        "E-F",
+        "G-H",
+        "I-J",
+        "K-L",
+        "M-N",
+        "O-P",
+        "Q-R",
+        "S-T",
+        "U-V",
+        "W-X",
+        "Y-Z"
+      ],
+      "source": "data/cambridge-a2-key-2025-draft.json",
+      "study_ready": true,
+      "unit_ids": [
+        "band-1",
+        "band-2",
+        "band-3",
+        "band-4",
+        "band-5",
+        "band-6",
+        "band-7",
+        "band-8",
+        "band-9",
+        "band-10",
+        "band-11",
+        "band-12",
+        "band-13"
+      ]
+    },
+    {
+      "deck_id": "cambridge-b1-preliminary",
+      "title": "PET / B1",
+      "status": "installed_chinese_ipa_supplied",
+      "units": [
+        "全部单元",
+        "A-B",
+        "C-D",
+        "E-F",
+        "G-H",
+        "I-J",
+        "K-L",
+        "M-N",
+        "O-P",
+        "Q-R",
+        "S-T",
+        "U-V",
+        "W-X",
+        "Y-Z"
+      ],
+      "source": "data/cambridge-b1-preliminary-2025-draft.json",
+      "study_ready": true,
+      "unit_ids": [
+        "band-1",
+        "band-2",
+        "band-3",
+        "band-4",
+        "band-5",
+        "band-6",
+        "band-7",
+        "band-8",
+        "band-9",
+        "band-10",
+        "band-11",
+        "band-12",
+        "band-13"
+      ]
+    }
+  ]
+}

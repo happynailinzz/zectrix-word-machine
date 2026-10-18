@@ -1,0 +1,62 @@
+{
+  "scope": "User-supplied curated draft datasets; no original PDF/XLSX bundled.",
+  "data_license": "No blanket dataset license; upstream/source rights remain with their owners.",
+  "books": [
+    {
+      "deck_id": "pep-g7-upper",
+      "file": "data/pep-g7-upper-2026-draft.json",
+      "records": 329,
+      "source_kind": "User-provided PEP vocabulary workbook",
+      "review_status": "draft_not_linguistically_certified",
+      "upstream_workbook_sha256": null
+    },
+    {
+      "deck_id": "pep-g7-lower",
+      "file": "data/pep-g7-lower-2026-draft.json",
+      "records": 465,
+      "source_kind": "User-provided PEP vocabulary workbook",
+      "review_status": "draft_not_linguistically_certified",
+      "upstream_workbook_sha256": null
+    },
+    {
+      "deck_id": "pep-g8-upper",
+      "file": "data/pep-g8-upper-2026-draft.json",
+      "records": 554,
+      "source_kind": "User-provided PEP vocabulary workbook",
+      "review_status": "draft_not_linguistically_certified",
+      "upstream_workbook_sha256": null
+    },
+    {
+      "deck_id": "pep-g8-lower",
+      "file": "data/pep-g8-lower-2026-draft.json",
+      "records": 511,
+      "source_kind": "User-provided PEP vocabulary workbook",
+      "review_status": "draft_not_linguistically_certified",
+      "upstream_workbook_sha256": null
+    },
+    {
+      "deck_id": "pep-g9-upper",
+      "file": "data/pep-g9-upper-2026-draft.json",
+      "records": 470,
+      "source_kind": "User-provided PEP vocabulary workbook",
+      "review_status": "draft_not_linguistically_certified",
+      "upstream_workbook_sha256": null
+    },
+    {
+      "deck_id": "cambridge-a2-key",
+      "file": "data/cambridge-a2-key-2025-draft.json",
+      "records": 1723,
+      "source_kind": "Cambridge August 2025 English list plus user-provided ECDICT-derived bilingual workbook",
+      "review_status": "draft_not_linguistically_certified",
+      "upstream_workbook_sha256": "ca65195841e55a90a2e66be8ddbd2ba7f62bd6519916f00b8a875c78925d7d3e"
+    },
+    {
+      "deck_id": "cambridge-b1-preliminary",
+      "file": "data/cambridge-b1-preliminary-2025-draft.json",
+      "records": 3113,
+      "source_kind": "Cambridge August 2025 English list plus user-provided ECDICT-derived bilingual workbook",
+      "review_status": "draft_not_linguistically_certified",
+      "upstream_workbook_sha256": "b9ec2535a656f1670dbcdde47df50645595279afb56f78299bac5bec12203c29"
+    }
+  ]
+}

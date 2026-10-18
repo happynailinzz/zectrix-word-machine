@@ -1,0 +1,7 @@
+# Name, Type, SubType, Offset, Size, Flags
+nvs, data, nvs, 0x9000, 0x20000,
+phy_init, data, phy, 0x29000, 0x1000,
+factory, app, factory, 0x30000, 0x200000,
+
+# Dedicated progress store; legacy NVS and application offsets are preserved.
+wm_progress, data, nvs, 0x230000, 0x200000,

@@ -1,0 +1,22 @@
+# Local state, backups, credentials and build artifacts
+.local/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store
+output/
+firmware/build/
+firmware/sdkconfig
+firmware/sdkconfig.old
+firmware/managed_components/
+firmware/dependencies.lock
+firmware/main/generated/
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.bak*
+*.log

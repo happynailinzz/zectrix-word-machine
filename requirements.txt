@@ -1,0 +1,2 @@
+Pillow>=10,<13
+pyserial>=3.5,<4
